@@ -20,3 +20,20 @@ Doctors rely on common knowledge for treatment. When common knowledge is lacking
 Data set
 Kaggle-pima Indians Diabetes Database
 
+Justification for the proposed problem
+Motivation and Need
+
+The motivation was to experiment with end to end machine learning project and get some idea about deployment platform like Google-COLAB. Using machine learning we have built a predictive model that can predict whether the patient is diabetes positive or not.". This is also sort of fun to work on a project like this which could be beneficial for the society.
+   
+Software/Tools Requirements
+Google COLAB( Python) – Machine Learning
+VS Code – Front End
+
+Source of data set
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?select=diabetes.csv 
+
+Justification :
+The dataset consists of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, Blood Pressure, Pregnancies, Skin thickness and so on..
+CONCLUSION
+
+After using all these patient records dataset, we are able to build a machine learning model (random forest) to accurately predict whether or not the patients in the dataset have diabetes or not along with that we were able to draw some insights from the data via data analysis and visualization.
