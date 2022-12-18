@@ -29,9 +29,6 @@ Software/Tools Requirements
 Google COLAB( Python) – Machine Learning
 VS Code – Front End
 
-Source of data set
-https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?select=diabetes.csv 
-
 Justification :
 The dataset consists of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, Blood Pressure, Pregnancies, Skin thickness and so on..
 CONCLUSION
