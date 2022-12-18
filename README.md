@@ -1,4 +1,7 @@
-# Rahul-Bharadwaj
+Diabetics prediction using machine learning
+
+
+
 Diabetics prediction using machine learning
 machine learning
 Introduction
